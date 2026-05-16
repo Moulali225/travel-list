@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/traveli_list/static/css/main.69bcc7c8.css",
+    "main.js": "/traveli_list/static/js/main.5f578f9b.js",
+    "index.html": "/traveli_list/index.html",
+    "main.69bcc7c8.css.map": "/traveli_list/static/css/main.69bcc7c8.css.map",
+    "main.5f578f9b.js.map": "/traveli_list/static/js/main.5f578f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bcc7c8.css",
+    "static/js/main.5f578f9b.js"
+  ]
+}
